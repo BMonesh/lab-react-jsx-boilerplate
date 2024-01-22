@@ -1,1 +1,13 @@
 /* add your styles here */
+h1{
+    text-align: center;
+}
+#parent{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
